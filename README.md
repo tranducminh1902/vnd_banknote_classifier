@@ -12,7 +12,7 @@ After detection, banknote will be predicted using trained model (9 classes label
 - Follow the folder structure of 9 classes: ['1,000 VND', '10,000 VND', '100,000 VND ', '2,000', '20,000 VND', '200,000 VND', '5,000 VND', '50,000 VND', '500,000 VND']
 2. Model trained using [VND_Banknotes_Classifier_Model_for_Image.ipynb](https://github.com/tranducminh1902/vnd_banknote_classifier/blob/main/VND_Banknotes_Classifier_Model_for_Image.ipynb)
 3. Export best model as .h5 files for later use: [VND_Banknotes_Classifier_Model_for_Image.h5](https://github.com/tranducminh1902/vnd_banknote_classifier/blob/main/VND_Banknotes_Classifier_Model_for_Image.h5)
-4. Labeling and create custom YOLOv3 weight files for Vietnamese banknote
+4. Labeling and create custom YOLOv3 weight files for Vietnamese banknote.
 5. Deploy on Streamlit using [Streamlit_Banknote_Classifier.py](https://github.com/tranducminh1902/vnd_banknote_classifier/blob/main/Streamlit_Banknote_Classifier.py)
 
 ### About Streamlit deploy:
